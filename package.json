@@ -1,0 +1,26 @@
+{
+  "name": "zbj-t",
+  "version": "0.0.1",
+  "description": "about the zbj company gulp script about css sprite,watch file change,livereload and project file create",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pokerme/zbj-gulp.git"
+  },
+  "keywords": [
+    "gulp",
+    "css",
+    "sprite",
+    "watch",
+    "file"
+  ],
+  "author": "poker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pokerme/zbj-gulp/issues"
+  },
+  "homepage": "https://github.com/pokerme/zbj-gulp"
+}

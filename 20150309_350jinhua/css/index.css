@@ -1,0 +1,74 @@
+.jh ul.inline li{padding: 0;}
+.dsb{display: block;}
+.dsi{display: inline-block;}
+.jh-head{background: url(../image/head.jpg) center top no-repeat;width: 100%;height: 765px;}
+.jh-data{background: url(../image/data.jpg) center top no-repeat;width: 100%;height: 426px;}
+.jh-chance{background: url(../image/chance.jpg) center top no-repeat;width: 100%;height: 675px;}
+.jh-market{background: url(../image/market.jpg) center top no-repeat;width: 100%;height: 361px;}
+.jh-free{background: url(../image/free.jpg) center top no-repeat;width: 100%;height: 384px;}
+.jh-standard{background: url(../image/standard.jpg) center top no-repeat;width: 100%;height: 459px;}
+.jh-how{background: url(../image/how.jpg) center top no-repeat;width: 100%;height: 387px;}
+.jh-info{background: url(../image/info.jpg) center top no-repeat;width: 100%;height: 287px;}
+.jh-submit{background: url(../image/submit.jpg) center top no-repeat;width: 100%;height: 511px;}
+.jh-data-ul{text-align: center;padding: 20px 0;}
+.jh-data-ul li{margin: 0 60px;}
+.jh-data-des{padding: 0 10px 50px 10px;font-size: 17px;color: #fff;line-height: 28px;}
+.icon-zt-titleline{position: relative;top:-3px;margin-right: 8px;}
+.jh-chance-box{padding-top: 40px;margin-bottom: 30px;}
+.jh-title-height{height: 38px;}
+.jh-chance-des{width: 480px;line-height: 30px;color: #fff;margin-top: 100px;font-size: 16px;}
+.jh-chance-des .jh-chance-word2{text-align: right;margin-top: 70px;font-weight: bold;}
+
+.jh-market-des{width: 630px;font-size: 16px;line-height: 30px;color: #fff;padding-top: 34px;}
+.jh-market-des .jh-market-word2{font-weight: bold;margin-top: 34px;}
+
+.jh-free-mtop{margin-top: 34px;}
+.jh-free-word{margin-bottom: 34px;line-height: 30px;font-size: 16px;color: #fff;}
+
+.jh-standard-ul{text-align: center;padding-top: 10px;}
+.jh-stardard-title{text-align: center;}
+.jh-stardard-subdes{font-size: 16px;line-height: 34px;color: #fff;}
+ul.inline li.jh-standard-item{width: 180px;height: 220px;border: 1px solid #fcf89c;float: left;text-align: center;color: #fff;padding: 25px 15px;border-radius: 5px;margin: 0 10px 0 45px;}
+.jh-standard-item strong{font-size: 18px;line-height: 18px;margin-bottom: 10px;}
+.jh-standard-item .jh-si-des{line-height: 20px;font-size: 12px;text-align: center;margin-top: 15px;}
+
+.jh-how-des{font-size: 16px;line-height: 32px;color: #fff;}
+.jh-how-des .jh-hd-word1{padding: 38px 0 38px 0;}
+.jh-how-des .jh-hd-word2{margin-bottom: 0;line-height: 28px;font-weight: bold;}
+.jh-hd-word2 .icon-zt-star{position: relative;top:4px;margin-right: 8px;margin-left: 6px;}
+.jh-hd-word3{color: #e28436;padding-top: 32px;font-weight: bold;text-shadow: 1px 1px 2px #666;}
+
+.jh-info-word{color: #f7ef83;font-size: 16px;line-height: 24px;}
+.jh-info-wordtop{margin-top: 50px;}
+.jh-info-wordbottom{margin-top: 40px;}
+
+.jh-submit-ul{position:relative;}
+.jh-submit-ul i.icon-zt-line{position: absolute;top:125px;left:270px;z-index: 1;}
+.jh-submit-ul i.icon-zt-line.zt-line2{left:600px;}
+.jh-submit-ul .jh-submit-item{margin: 60px 20px 0 160px;position: relative;z-index: 10;}
+.jh-submit-files{position: absolute;top:144px;left:38px;text-align: center;color: #f7ef83;line-height: 20px;}
+.jh-submit-files:hover{text-decoration: none;color: #fff;}
+
+.zt-submit-btn{width: 380px;height: 110px;position: absolute;top:270px;left:360px;}
+
+.jh-layer{background: url(../image/layerfix.png) repeat;position: fixed;top:0;left:0;width: 100%;height: 100%;z-index: 20;}
+.jh-joinbox{width: 390px;height: 360px;position: fixed;left:50%;top:50%;margin-left: -220px;margin-top:-200px;z-index: 30;background: #fff;border-radius: 5px;box-shadow: 1px 1px 2px #666;padding: 20px 25px;}
+.jh-joinbox-close{position: absolute;top:10px;right:10px;}
+.jh-joinbox h2{font-size: 24px;color: #333;text-align: center;font-weight: normal;margin: 10px 0;}
+.join-form{padding: 20px 20px 0 20px;}
+.join-form input{height: 24px;}
+.join-form .join-name-input,.join-form .join-telephone-input{width: 235px;}
+.join-form label{line-height: 34px;display: block;}
+.join-form .join-verify-input{width: 132px;}
+.join-form .label-word{width: 80px;height: 34px;text-align: right;font-size: 15px;color: #333;}
+.join-form .join-submit{width: 100px;height: 40px;border-radius: 5px;background: #ff8a00;color: #fff;text-align: center;line-height: 40px;font-size: 16px;border: none;outline: none;margin: 20px auto;}
+.join-submit-des{padding-top: 10px;color: #999;font-size: 12px;font-weight: bold;word-break: break-all;text-align: center;}
+.join-code-get{width: 90px;height: 34px;border-radius: 5px;background: #ff8a00;color: #fff;line-height: 34px;text-align: center;margin-left: 12px;}
+.join-code-wait,.join-code-get.disabled{width: 90px;height: 34px;border-radius: 5px;line-height: 34px;text-align: center;margin-left: 12px;background: #dedede;color: #999;}
+
+.jh-chance-title .icon-zt-titleline{top:8px;}
+
+.jh-data-item i{position: relative;}
+.jh-data-item .icon-zt-hover{position: absolute;display: none;}
+.jh-data-item:hover .icon-zt-hover{display: block;}
+.jh-data-item .icon-zt-icon1 .icon-zt-hover{left:11px;}

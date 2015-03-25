@@ -1,0 +1,259 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+```html
+<i class="icon-home"></i>
+```
+*/
+.icon-zt-bao {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -466px -84px;
+  width: 55px;
+  height: 57px;
+}
+.icon-zt-chat {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -92px -87px;
+  width: 30px;
+  height: 44px;
+}
+.icon-zt-chatwhite {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -353px -161px;
+  width: 20px;
+  height: 18px;
+}
+.icon-zt-circle {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -576px -84px;
+  width: 48px;
+  height: 48px;
+}
+.icon-zt-code {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -346px -84px;
+  width: 60px;
+  height: 60px;
+}
+.icon-zt-collect {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -225px -84px;
+  width: 61px;
+  height: 61px;
+}
+.icon-zt-dotted {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -576px -132px;
+  width: 5px;
+  height: 5px;
+}
+.icon-zt-ear {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -92px -131px;
+  width: 28px;
+  height: 27px;
+}
+.icon-zt-gotop {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -286px -84px;
+  width: 60px;
+  height: 60px;
+}
+.icon-zt-heart {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -373px -161px;
+  width: 20px;
+  height: 18px;
+}
+.icon-zt-home {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -233px -145px;
+  width: 20px;
+  height: 16px;
+}
+.icon-zt-jiazhuang {
+  background-image: url(../img/zt-sprite.png);
+  background-position: 0px -235px;
+  width: 108px;
+  height: 27px;
+}
+.icon-zt-join {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -153px -187px;
+  width: 159px;
+  height: 36px;
+}
+.icon-zt-location {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -334px -161px;
+  width: 13px;
+  height: 21px;
+}
+.icon-zt-money {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -521px -84px;
+  width: 55px;
+  height: 57px;
+}
+.icon-zt-people {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -280px -161px;
+  width: 35px;
+  height: 22px;
+}
+.icon-zt-pub {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -312px -187px;
+  width: 158px;
+  height: 36px;
+}
+.icon-zt-raw-left {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -328px -161px;
+  width: 6px;
+  height: 21px;
+}
+.icon-zt-raw-right {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -347px -161px;
+  width: 6px;
+  height: 21px;
+}
+.icon-zt-rawup {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -253px -145px;
+  width: 22px;
+  height: 12px;
+}
+.icon-zt-share {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -406px -84px;
+  width: 60px;
+  height: 60px;
+}
+.icon-zt-talk-1 {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -47px 0px;
+  width: 17px;
+  height: 101px;
+}
+.icon-zt-talk-2 {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -64px 0px;
+  width: 28px;
+  height: 101px;
+}
+.icon-zt-talk-3 {
+  background-image: url(../img/zt-sprite.png);
+  background-position: 0px 0px;
+  width: 32px;
+  height: 187px;
+}
+.icon-zt-talk-4 {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -32px 0px;
+  width: 15px;
+  height: 187px;
+}
+.icon-zt-talk-5 {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -179px -84px;
+  width: 28px;
+  height: 77px;
+}
+.icon-zt-talk-6 {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -207px -84px;
+  width: 18px;
+  height: 77px;
+}
+.icon-zt-talk {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -205px -161px;
+  width: 23px;
+  height: 25px;
+}
+.icon-zt-talkleft {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -122px -87px;
+  width: 15px;
+  height: 34px;
+}
+.icon-zt-talkright {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -152px -87px;
+  width: 6px;
+  height: 34px;
+}
+.icon-zt-time1 {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -179px 0px;
+  width: 452px;
+  height: 84px;
+}
+.icon-zt-time2 {
+  background-image: url(../img/zt-sprite.png);
+  background-position: 0px -187px;
+  width: 153px;
+  height: 48px;
+}
+.icon-zt-time3 {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -179px -161px;
+  width: 26px;
+  height: 26px;
+}
+.icon-zt-time4 {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -470px -187px;
+  width: 95px;
+  height: 34px;
+}
+.icon-zt-time5 {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -92px 0px;
+  width: 87px;
+  height: 87px;
+}
+.icon-zt-time6 {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -137px -87px;
+  width: 15px;
+  height: 34px;
+}
+.icon-zt-time7 {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -624px -84px;
+  width: 6px;
+  height: 34px;
+}
+.icon-zt-voice-0 {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -624px -118px;
+  width: 4px;
+  height: 10px;
+}
+.icon-zt-voice-1 {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -225px -145px;
+  width: 8px;
+  height: 16px;
+}
+.icon-zt-voice-2 {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -315px -161px;
+  width: 13px;
+  height: 22px;
+}
+.icon-zt-write {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -228px -161px;
+  width: 23px;
+  height: 25px;
+}
+.icon-zt-zbj {
+  background-image: url(../img/zt-sprite.png);
+  background-position: -251px -161px;
+  width: 29px;
+  height: 24px;
+}
