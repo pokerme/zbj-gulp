@@ -5,6 +5,9 @@ var less = require('gulp-less');
 var path = require('path');
 var fs   = require('fs');
 var spritesmith = require('gulp.spritesmith');
+
+var livereload  = require('gulp-livereload');
+
 var scriptsPath = './';//root path
 
 gulp.task('default',function(){
@@ -15,6 +18,7 @@ gulp.task('default',function(){
 //init file path collection
 var  paths = {
 	sprites:['**/sprite/*.png','**/sprite/*.jpg','!node_modules/**/*'],
+	liveDir:['**/*','!node_modules/**/*'],
 	ignoreDir:["node_modules",".git",".svn"]
 }
 
@@ -49,4 +53,15 @@ gulp.task('zbj-sprite',function(){
 
 //动态监听页面改变自动刷新
 //需要下载livereload插件比安装http-server服务
-
+//step1:google store搜索livereload插件
+//step2:安装gulp-livereload
+//step3:windows下貌似apache自带http-server服务
+//step4:启动chrome插件livereload
+var target = paths.liveDir;
+gulp.task('reload',function(){
+	gulp.src(target).pipe(livereload());
+});
+gulp.task('zbjlive',function(){
+	livereload.listen();
+	gulp.watch(target,['reload']);
+});
