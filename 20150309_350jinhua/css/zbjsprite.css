@@ -1,0 +1,143 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+```html
+<!-- `display: block` sprite -->
+<div class="icon-home"></div>
+
+<!-- `display: inline-block` sprite -->
+<img class="icon-home" />
+```
+*/
+.icon-zbj-close {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -875px -53px;
+  width: 14px;
+  height: 13px;
+}
+.icon-zbj-hover {
+  background-image: url(../image/zbjsprite.png);
+  background-position: 0px -191px;
+  width: 153px;
+  height: 153px;
+}
+.icon-zbj-icon1 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: 0px 0px;
+  width: 174px;
+  height: 191px;
+}
+.icon-zbj-icon10 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -296px -191px;
+  width: 143px;
+  height: 143px;
+}
+.icon-zbj-icon2 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -174px 0px;
+  width: 153px;
+  height: 190px;
+}
+.icon-zbj-icon3 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -327px 0px;
+  width: 153px;
+  height: 190px;
+}
+.icon-zbj-icon4 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -667px -224px;
+  width: 85px;
+  height: 85px;
+}
+.icon-zbj-icon5 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -752px -224px;
+  width: 85px;
+  height: 85px;
+}
+.icon-zbj-icon6 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -582px -224px;
+  width: 85px;
+  height: 85px;
+}
+.icon-zbj-icon7 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -837px -224px;
+  width: 85px;
+  height: 85px;
+}
+.icon-zbj-icon8 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -153px -191px;
+  width: 143px;
+  height: 143px;
+}
+.icon-zbj-icon9 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -439px -191px;
+  width: 143px;
+  height: 143px;
+}
+.icon-zbj-line {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -582px -309px;
+  width: 246px;
+  height: 13px;
+}
+.icon-zbj-star {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -858px -53px;
+  width: 17px;
+  height: 15px;
+}
+.icon-zbj-subtitle1 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -480px -88px;
+  width: 200px;
+  height: 60px;
+}
+.icon-zbj-subtitle2 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -680px -88px;
+  width: 200px;
+  height: 60px;
+}
+.icon-zbj-title1 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -480px 0px;
+  width: 500px;
+  height: 53px;
+}
+.icon-zbj-title2 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -582px -191px;
+  width: 244px;
+  height: 33px;
+}
+.icon-zbj-title3 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -480px -53px;
+  width: 378px;
+  height: 35px;
+}
+.icon-zbj-title4 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -480px -148px;
+  width: 297px;
+  height: 35px;
+}
+.icon-zbj-title5 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -777px -148px;
+  width: 123px;
+  height: 33px;
+}
+.icon-zbj-titleline {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -880px -88px;
+  width: 10px;
+  height: 37px;
+}

@@ -1,0 +1,263 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+```html
+<!-- `display: block` sprite -->
+<div class="icon-home"></div>
+
+<!-- `display: inline-block` sprite -->
+<img class="icon-home" />
+```
+*/
+.icon-zbj-bao {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -273px -171px;
+  width: 55px;
+  height: 57px;
+}
+.icon-zbj-chat {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -106px -232px;
+  width: 30px;
+  height: 44px;
+}
+.icon-zbj-chatwhite {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -431px -171px;
+  width: 20px;
+  height: 18px;
+}
+.icon-zbj-circle {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -383px -171px;
+  width: 48px;
+  height: 48px;
+}
+.icon-zbj-code {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -153px -171px;
+  width: 60px;
+  height: 60px;
+}
+.icon-zbj-collect {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -32px -171px;
+  width: 61px;
+  height: 61px;
+}
+.icon-zbj-dotted {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -460px -342px;
+  width: 5px;
+  height: 5px;
+}
+.icon-zbj-ear {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -136px -232px;
+  width: 28px;
+  height: 27px;
+}
+.icon-zbj-gotop {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -93px -171px;
+  width: 60px;
+  height: 60px;
+}
+.icon-zbj-heart {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -431px -189px;
+  width: 20px;
+  height: 18px;
+}
+.icon-zbj-home {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -193px -232px;
+  width: 20px;
+  height: 16px;
+}
+.icon-zbj-jiazhuang {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -340px -132px;
+  width: 108px;
+  height: 27px;
+}
+.icon-zbj-join {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -240px -84px;
+  width: 159px;
+  height: 36px;
+}
+.icon-zbj-location {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -452px -277px;
+  width: 13px;
+  height: 21px;
+}
+.icon-zbj-money {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -328px -171px;
+  width: 55px;
+  height: 57px;
+}
+.icon-zbj-people {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -399px -84px;
+  width: 35px;
+  height: 22px;
+}
+.icon-zbj-pub {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -87px -132px;
+  width: 158px;
+  height: 36px;
+}
+.icon-zbj-raw-left {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -434px -84px;
+  width: 6px;
+  height: 21px;
+}
+.icon-zbj-raw-right {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -440px -84px;
+  width: 6px;
+  height: 21px;
+}
+.icon-zbj-rawup {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -399px -106px;
+  width: 22px;
+  height: 12px;
+}
+.icon-zbj-share {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -213px -171px;
+  width: 60px;
+  height: 60px;
+}
+.icon-zbj-talk-1 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: 0px -358px;
+  width: 17px;
+  height: 101px;
+}
+.icon-zbj-talk-2 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -32px -232px;
+  width: 28px;
+  height: 101px;
+}
+.icon-zbj-talk-3 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: 0px -171px;
+  width: 32px;
+  height: 187px;
+}
+.icon-zbj-talk-4 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -452px 0px;
+  width: 15px;
+  height: 187px;
+}
+.icon-zbj-talk-5 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -60px -232px;
+  width: 28px;
+  height: 77px;
+}
+.icon-zbj-talk-6 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -88px -232px;
+  width: 18px;
+  height: 77px;
+}
+.icon-zbj-talk {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -155px -276px;
+  width: 23px;
+  height: 25px;
+}
+.icon-zbj-talkleft {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -452px -221px;
+  width: 15px;
+  height: 34px;
+}
+.icon-zbj-talkright {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -458px -298px;
+  width: 6px;
+  height: 34px;
+}
+.icon-zbj-time1 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: 0px 0px;
+  width: 452px;
+  height: 84px;
+}
+.icon-zbj-time2 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -87px -84px;
+  width: 153px;
+  height: 48px;
+}
+.icon-zbj-time3 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -106px -276px;
+  width: 26px;
+  height: 26px;
+}
+.icon-zbj-time4 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -245px -132px;
+  width: 95px;
+  height: 34px;
+}
+.icon-zbj-time5 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: 0px -84px;
+  width: 87px;
+  height: 87px;
+}
+.icon-zbj-time6 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -452px -187px;
+  width: 15px;
+  height: 34px;
+}
+.icon-zbj-time7 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -452px -298px;
+  width: 6px;
+  height: 34px;
+}
+.icon-zbj-voice-0 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -460px -332px;
+  width: 4px;
+  height: 10px;
+}
+.icon-zbj-voice-1 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -452px -332px;
+  width: 8px;
+  height: 16px;
+}
+.icon-zbj-voice-2 {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -452px -255px;
+  width: 13px;
+  height: 22px;
+}
+.icon-zbj-write {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -132px -276px;
+  width: 23px;
+  height: 25px;
+}
+.icon-zbj-zbj {
+  background-image: url(../image/zbjsprite.png);
+  background-position: -164px -232px;
+  width: 29px;
+  height: 24px;
+}
